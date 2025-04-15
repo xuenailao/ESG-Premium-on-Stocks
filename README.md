@@ -1,0 +1,3 @@
+Developed a green news filtering framework (2009–2022) using LDA to identify themes like carbon emissions and green finance, optimizing topic clustering with coherence scores. Applied Fama-MacBeth regression to show text-based factors significantly enhance climate risk capture.
+• Constructed a Green Minus Brown (GMB) long-short portfolio using ESG scores, achieving a 207.1% cumulative return advantage post-2015. Backtested with Sharpe Ratio 1.822 and Calmar Ratio 1.523.
+• Integrated green text factors into ESG portfolios, with "Carbon Emission" emerging as the top-performing factor, delivering a 10x return and validating robustness through counterfactual analysis, which simulated the excess return curve of GMB portfolio.
